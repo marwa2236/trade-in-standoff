@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+{"name":"Чит НА СТАНДОФФ 2 гид","package_name":"com.cheatguidstandoff.gamestandoffplaying","icon":"https://play-lh.googleusercontent.com/X7DMpPpIqYcVYu7sCcCH2iNQxBACLr4kH70-6Tc1uuIiBrq3UafnawDBngUn8rZVk4Yp=s48-rw"},
+  {"name":"стандофф 2 читы","package_name":"com.cheatonguidestandoff.gamingmodfun","icon":"https://play-lh.googleusercontent.com/lp_Stm-GEDrYrNv0SKkw6T1mIcUVlox57O0vW2AaWjK2FKAL7ehFZH1KbyAf2ZKt6MRD=w240-h480-rw"},
+  {"name":"СТАНДОФФ 2 0.25.0","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/hntj4FmV7XW41iAuScyt9WXFs3FspqLV0V-diA_zEKQ2-wb6v6BtNYNGpF4RcWOMfg=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
